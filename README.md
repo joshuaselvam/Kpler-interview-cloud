@@ -17,8 +17,8 @@
 
 Infrastructure as a code:
 
-ebs-terraform -   Elastic Beanstalk Cluster
-rds-terraform -   RDS - postgress DB
+ebs-terraform -   Elastic Beanstalk Cluster / 
+rds-terraform -   RDS - postgress DB  / 
 vpc-terraform -   VPC - modules
 
 
